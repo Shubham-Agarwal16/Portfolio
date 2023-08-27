@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Zhenghao's blog</title>
+        <link>https://zhenghao.io</link>
+        <description>You can find me talking about topics related to JavaScript, TypeScript, React, Web development and technical/coding interviews</description>
+        <lastBuildDate>Sun, 27 Aug 2023 16:37:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>All rights reserved 2023, Zhenghao He</copyright>
+        <item>
+            <title><![CDATA[Why async/await is more than just syntactic sugar]]></title>
+            <link>https://zhenghao.io/posts/await-vs-promise</link>
+            <guid>https://zhenghao.io/posts/await-vs-promise</guid>
+            <pubDate>Sun, 07 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[My takes on async/await vs Promise]]></description>
+            <content:encoded><![CDATA[My takes on async/await vs Promise]]></content:encoded>
+            <author>zhenghaohe17@gmail.com (Zhenghao He)</author>
+            <category>javascript</category>
+        </item>
+    </channel>
+</rss>

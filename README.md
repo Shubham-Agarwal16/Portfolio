@@ -1,6 +1,6 @@
-# [zhenghao.io](https://zhenghao.io)
+# [Shubham Agarwal](https://shubhamagarwal.dev)
 
-Source code for my personal website and blog [zhenghao.io](https://zhenghao.io).
+Source code for my personal website and blog [Shubham Agarwal](https://shubhamagarwal.dev).
 
 ## built with
 

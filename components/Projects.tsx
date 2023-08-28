@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: 'Feedback Collectoin System',
+    title: 'Feedback Collection System',
     details: (
       <>
         <ul>

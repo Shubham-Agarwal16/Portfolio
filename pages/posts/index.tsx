@@ -99,13 +99,12 @@ export const PostPreviewList: React.FC<{ posts: PostMeta[] }> = ({ posts }) => {
 type Props = InferGetStaticPropsType<typeof getStaticProps>;
 
 const Posts: React.FC<Props> = ({ posts }) => {
-
   return (
     <>
       <NextSeo
         title="Posts"
-        canonical="https://zhenghao.io/posts"
-        openGraph={{ url: 'https://zhenghao.io/posts' }}
+        canonical="https://shubhamagarwal.dev/posts"
+        openGraph={{ url: 'https://shubhamagarwal.dev/posts' }}
       />
       <div className="w-full sm:max-w-[75ch] m-auto px-5 py-16 flex flex-col justify-center items-center">
         <PostPreviewList posts={posts} />

@@ -15,8 +15,8 @@ const Notes: React.FC<Props> = ({ notes }) => {
     <>
       <NextSeo
         title="Posts"
-        canonical="https://shubhamagarwal.dev/notes"
-        openGraph={{ url: 'https://shubhamagarwal.dev/notes' }}
+        canonical="https://www.shubhamagarwal.dev/notes"
+        openGraph={{ url: 'https://www.shubhamagarwal.dev/notes' }}
       />
 
       <div className="w-full sm:max-w-[75ch] m-auto px-5 py-16 flex flex-col justify-center items-center">
